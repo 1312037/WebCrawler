@@ -1,0 +1,8 @@
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\bin\Debug\AngleSharpSample.exe.config
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\bin\Debug\AngleSharpSample.exe
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\bin\Debug\AngleSharpSample.pdb
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\bin\Debug\AngleSharp.dll
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\bin\Debug\AngleSharp.xml
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\obj\Debug\AngleSharpSample.csprojResolveAssemblyReference.cache
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\obj\Debug\AngleSharpSample.exe
+C:\Users\Bao-VN\Documents\GitHub\WebCrawler\source\AngleSharpSample\AngleSharpSample\obj\Debug\AngleSharpSample.pdb
